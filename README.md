@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dileep Singh
+### Hi there 👋 my name is Dileep Singh
  #### About Me
  
 As a mechanical engineering graduate, I spent three years working in the ed-tech sector, gaining valuable experience as an academic content developer. It was during this time that I discovered the immense value of data science in driving business growth and innovation. Motivated to pursue this exciting field, I completed a comprehensive data science training program with **Almabetter**. Today, I am passionate about leveraging my skills and knowledge to help businesses stay ahead of the curve through data-driven insights and decision-making.
