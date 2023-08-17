@@ -13,7 +13,7 @@ As a mechanical engineering graduate, I spent three years working in the ed-tech
 
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning SQL
-- 💬 Ask me about Python, SQL, and Machine Learning
+- 💬 Ask me about Python, SQL, Business Intelligence Tools (Python and Tableau), and Machine Learning
 - 📫 How to reach me: dileep.singh6432@gmail.com
 <!--
 **Dileepsingh6432/Dileepsingh6432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
